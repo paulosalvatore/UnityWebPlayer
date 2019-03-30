@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "UnityWebPlayer",
-"dataUrl": "Build.data.unityweb",
-"wasmCodeUrl": "Build.wasm.code.unityweb",
-"wasmFrameworkUrl": "Build.wasm.framework.unityweb",
+"dataUrl": "UnityWebPlayer.data.unityweb",
+"wasmCodeUrl": "UnityWebPlayer.wasm.code.unityweb",
+"wasmFrameworkUrl": "UnityWebPlayer.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
